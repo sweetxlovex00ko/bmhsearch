@@ -1,0 +1,1 @@
+Expand Model method type hinting (#8279)
