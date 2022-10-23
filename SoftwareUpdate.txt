@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+Add yolo_bbox2segment docs reference (#7751)
