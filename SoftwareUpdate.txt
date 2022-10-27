@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Resize angle, count, and stage on keypoint number change (#7598)
