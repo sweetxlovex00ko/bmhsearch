@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Capitalize OBB acronym (#7383)
