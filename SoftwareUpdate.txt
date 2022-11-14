@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+OpenVino 2024.0.0 (#8726)
