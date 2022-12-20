@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Add Neural Magic Docs integrations page (#7234)
