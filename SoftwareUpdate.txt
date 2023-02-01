@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+* fix for predicting with batch_size > 1
