@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
