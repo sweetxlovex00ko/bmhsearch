@@ -1,1 +1,1 @@
-ultralytics 8.0.237 cv2.CAP_PROP fix and in_counts and out_counts displays (#7380)
+Limit ray<2.9.3 due to bug in ray==2.10.0 (#9254)
