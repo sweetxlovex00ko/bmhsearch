@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+Update Discord and Contributing Guide URLs (#9270)
