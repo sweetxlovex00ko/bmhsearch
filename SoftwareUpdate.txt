@@ -1,1 +1,1 @@
-Move Google Drive to slow tests (#8163)
+Update Discord and Contributing Guide URLs (#9270)
