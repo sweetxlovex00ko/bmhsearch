@@ -1,1 +1,1 @@
-ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
+ultralytics 8.0.225 multi-video tracker bug fix (#6862)
