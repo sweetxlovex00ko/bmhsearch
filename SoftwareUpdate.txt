@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Add dota8.yaml and O tests (#7394)
