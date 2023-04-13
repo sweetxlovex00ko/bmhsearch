@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Add Amazon Sagemaker Docs integrations page (#7293)
