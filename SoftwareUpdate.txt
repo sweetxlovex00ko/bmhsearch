@@ -1,1 +1,1 @@
-ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
