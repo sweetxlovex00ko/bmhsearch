@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+Fix PIL show() and save() (#8202)
