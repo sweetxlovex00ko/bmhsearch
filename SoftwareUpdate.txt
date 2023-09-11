@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+Compress docs images (#8124)
