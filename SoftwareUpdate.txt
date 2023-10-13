@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Batch inference fixes (#8854)
