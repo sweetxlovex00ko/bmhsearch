@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+YOLOv8 INT8 TFLite Inference Example (#7317)
