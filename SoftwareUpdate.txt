@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+ultralytics 8.0.231 use new pyproject.toml (#7185)
