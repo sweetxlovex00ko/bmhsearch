@@ -1,1 +1,1 @@
-Update format.yml to pull_request_target (#7460)
+ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
