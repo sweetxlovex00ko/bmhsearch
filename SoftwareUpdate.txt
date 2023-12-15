@@ -1,1 +1,1 @@
-Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
