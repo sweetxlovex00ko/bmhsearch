@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+Add type hinting to explorer.py (#7388)
