@@ -1,1 +1,1 @@
-Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
+Remove unused variables (#8511)
