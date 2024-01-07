@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+Update mkdocs.yml (#7693)
