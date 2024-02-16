@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+Optimize function calls to method calls (#8507)
