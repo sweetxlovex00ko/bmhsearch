@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Fix OpenVINO links (#7930)
