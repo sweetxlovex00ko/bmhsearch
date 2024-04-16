@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
