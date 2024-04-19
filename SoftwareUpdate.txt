@@ -1,1 +1,1 @@
-Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
