@@ -1,1 +1,1 @@
-Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
+ultralytics 8.1.13 fix yolo train time= bug (#8179)
