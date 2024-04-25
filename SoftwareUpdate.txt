@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Python refactorings and simplifications (#7549)
