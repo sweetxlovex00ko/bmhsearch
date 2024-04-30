@@ -1,1 +1,1 @@
-fix print val map
+Fix heatmaps width-height order bug (#7184)
