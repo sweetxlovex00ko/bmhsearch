@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
